@@ -4,6 +4,7 @@ import 'package:prakriti/core/style/color.dart';
 class ProfilePage extends StatelessWidget {
   var _height;
   var _width;
+  
   @override
   Widget build(BuildContext context) {
     _height = MediaQuery.of(context).size.height;
